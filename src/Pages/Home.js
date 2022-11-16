@@ -14,10 +14,10 @@ function Home() {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="me-auto">
+                    <Nav.Link href="/nikkoapps/">Nikko Apps</Nav.Link>
                     <Nav.Link href="/servicios/">Servicios</Nav.Link>
                     <Nav.Link href="/productos/">Productos</Nav.Link>
                     <Nav.Link href="/profitplus/">Profit Plus</Nav.Link>
-                    <Nav.Link href="/nikkoapps/">Nikko Apps</Nav.Link>
                     <Nav.Link href="/contacto/">Contacto</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
